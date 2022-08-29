@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-louffee",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "StyleLint configuration used at all front-end projects @ Louffee.",
   "main": ".stylelintrc.js",
   "repository": "git@github.com:louffee/style-config-louffee.git",
