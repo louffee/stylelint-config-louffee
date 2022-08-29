@@ -16,5 +16,8 @@
   "scripts": {
     "semver": "changeset",
     "publish": "changeset publish"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
