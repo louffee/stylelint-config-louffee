@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-louffee",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "StyleLint configuration used at all front-end projects @ Louffee.",
   "main": ".stylelintrc.js",
   "repository": "git@github.com:louffee/style-config-louffee.git",
@@ -12,5 +12,9 @@
     "stylelint": "^14.11.0",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-standard": "^28.0.0"
+  },
+  "scripts": {
+    "semver": "changeset",
+    "publish": "changeset publish"
   }
 }
